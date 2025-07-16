@@ -5,3 +5,4 @@ playwright
 pydantic
 pymongo
 langchain-community
+python-dotenv
