@@ -1,0 +1,7 @@
+asyncio
+beautifulsoup4
+requests
+playwright
+pydantic
+pymongo
+langchain-community
